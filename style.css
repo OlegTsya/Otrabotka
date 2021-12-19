@@ -1,0 +1,25 @@
+header{
+    background-color: azure;
+    width: 1330px;
+    height: 50px;
+    text-align: center;
+    font-size: x-large;
+}
+
+body{
+    background-color: brown;
+height: 1200px;
+}
+
+.pict{
+    background-image: url(mem.png);-image: url(mem.png);
+margin-left: 500px;
+height: 1000px;
+width: 300px;
+background-repeat: no-repeat;
+}
+.Hobby{
+font-size:large;
+color: burlywood;
+
+}
